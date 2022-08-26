@@ -1,5 +1,3 @@
-<img src="https://wallpaperaccess.com/full/1330857.jpg" alt="Profile Image" width="600px">
-
 ### Hi there 👋
 
 

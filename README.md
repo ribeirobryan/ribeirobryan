@@ -14,9 +14,9 @@
 ### My Projects 💻📓
 [![Ferragem Linha 2](https://img.shields.io/badge/FERRAGEM%20LINHA%202-FINISHED-ffff00?style=for-the-badge&logo=checkmarx)](https://ferragemlinha2.com.br)
 
-[![Vacinação Em Dia](https://img.shields.io/badge/VACINA%C3%87%C3%83O%20EM%20DIA-WORKING-9CF?style=for-the-badge&logo=javascript)](https://ribeirobryan.github.io/VacinacaoEmDia)
+[![Vacinação Em Dia](https://img.shields.io/badge/VACINA%C3%87%C3%83O%20EM%20DIA-IN%20PROGRESS-9CF?style=for-the-badge&logo=javascript)](https://ribeirobryan.github.io/VacinacaoEmDia)
 
-[![Ordo Aureus  ](https://img.shields.io/badge/ORDO%20AUREUS-WORKING-530000?style=for-the-badge&logo=css3)]("")
+[![Ordo Aureus  ](https://img.shields.io/badge/RPG%20ORDO%20AUREUS-IN%20PROGRESS-530000?style=for-the-badge&logo=css3)]("")
 
 
 

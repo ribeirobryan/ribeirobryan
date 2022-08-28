@@ -5,6 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryanribeiromiranda/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribeirobryan@gmail.com)
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ribeirobryan)
+
 ![Bryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ribeirobryan&theme=gotham&count_private=trueshow_icons=true)
 ![Bryan's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeirobryan&theme=gotham)
 <!--

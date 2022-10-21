@@ -2,7 +2,7 @@
 ### Hi, my name is Bryan Ribeiro 🖥️🖱️
 
 <div>
-  <a href="https://github.com/ribeirobryan"><img src="https://img.shields.io/badge/PORTFOLIO-333333?style=for-the-badge&logo=checkmarx"/></a>
+  <a href="https://ribeirobryan.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-333333?style=for-the-badge&logo=checkmarx"/></a>
   <a href="https://www.linkedin.com/in/bryanribeiromiranda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ribeirobryan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://codepen.io/ribeirobryan"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>

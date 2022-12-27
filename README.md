@@ -33,7 +33,11 @@
 </div>
 <br>
 <div>
-  <a href="https://github.com/ribeirobryan"><img src="https://img.shields.io/badge/RPG%20ORDO%20AUREUS-IN%20PROGRESS-530000?style=for-the-badge&logo=css3"/></a>
+  <a href="https://ribeirobryan.github.io/portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-finished-046307?style=for-the-badge&logo=checkmarx"/></a>
+</div>
+<br>
+<div>
+  <a href="https://github.com/ribeirobryan"><img src="https://img.shields.io/badge/SULTECBOMBAS-IN%20PROGRESS-blue?style=for-the-badge&logo=react"/></a>
 </div>
 
 
